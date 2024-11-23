@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @projectGalal
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python & html"for uni project"
-- 💞️ I’m looking to collaborate on "nothing for now"
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on "MAKING A VIDEO GAME"
 - 📫 How to reach me on facebook "https://www.facebook.com/Rasputin48"
 - 😄 Pronouns: He
-- ⚡ Fun fact: i dont know really
+- ⚡ Fun fact: i named my cat rasputin like the russian rasputin cause i want him to live a lot
 
 <!---
 projectGalal/projectGalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
