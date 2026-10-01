@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>James | QA Projects</title>
+<meta name="description" content="Software QA projects by James: test cases, a Notion QA workspace, and Java practice.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Newsreader:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#f6f7f3;--ink:#1b2420;--mute:#5b675f;--line:#d9ded6;--pass:#1d7a4b;--card:#fff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Newsreader",Georgia,serif;font-size:19px;line-height:1.6}
+h1,h2,h3,.link{font-family:"Bricolage Grotesque",system-ui,sans-serif}
+:focus-visible{outline:3px solid var(--pass);outline-offset:3px}
+.wrap{max-width:960px;margin:0 auto;padding:64px 24px}
+h1{font-size:clamp(44px,7vw,76px);line-height:1;margin:0 0 12px;font-weight:800;letter-spacing:-.03em}
+.role{font-family:"Bricolage Grotesque",sans-serif;font-weight:600;font-size:21px;margin:0 0 56px;color:var(--mute)}
+h2{font-size:34px;margin:0 0 28px;padding-top:32px;border-top:1.5px solid var(--ink);letter-spacing:-.02em}
+.proj{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.card{background:var(--card);border:1.5px solid var(--line);border-radius:8px;padding:22px}
+.card h3{margin:0 0 8px;font-size:21px}
+.card p{margin:0 0 14px;color:var(--mute);font-size:17px}
+.link{font-weight:600;font-size:15px}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <h1>James</h1>
+  <p class="role">Software QA Engineer</p>
+
+  <h2>Projects</h2>
+  <div class="proj">
+    <article class="card">
+      <h3>Sign Up test suite</h3>
+      <p>13 valid and 10 invalid scenarios with steps, expected results, and priorities for a sign-up flow.</p>
+      <a class="link" href="#">View test cases</a>
+    </article>
+    <article class="card">
+      <h3>QA Hub in Notion</h3>
+      <p>A workspace linking test cases, test runs, and bugs, with pass-rate tracking per test plan.</p>
+      <a class="link" href="#">View template</a>
+    </article>
+    <article class="card">
+      <h3>Order total calculator</h3>
+      <p>A Java program that applies the DRY principle to item totals, a service fee, and tax.</p>
+      <a class="link" href="#">View on GitHub</a>
+    </article>
+  </div>
+</main>
+</body>
+</html>
