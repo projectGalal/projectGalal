@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @projectGalal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on "MAKING A VIDEO GAME"
-- 📫 How to reach me on facebook "https://www.facebook.com/Rasputin48"
+- 👀 I’m interested in Software Testing
+- 👀 I’m looking to get hired in my next jpb
+- 📫 How to reach me  galaleid122@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: i named my cat rasputin like the russian rasputin cause i want him to live a lot
 
